@@ -1,0 +1,101 @@
+body {
+  overflow: hidden;
+  width: 100%;
+}
+
+.appContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.contentWrapper{
+  width: 65%;
+  padding: 10px;
+  display: flex;
+  height: 590px;
+}
+
+
+.formContainer{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid gray;
+  padding: 10px;
+  margin-right: 5px;
+}
+
+.return {
+  border: 1px solid gray;
+}
+
+form {
+
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.registro {
+  display: flex;
+  flex-direction: column;
+
+  button {
+    margin-top: 10px;
+    padding: 0 5px 0 5px;
+    width: fit-content;
+  }
+}
+
+.container {
+  display: grid;
+  align-items: center;
+  justify-content: left;
+  padding: 20px;
+  width: auto;
+  height: 100px;
+
+  button {
+    height: fit-content;
+    margin: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: bold;
+  }
+}
+
+.inputContainer{
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+
+.name {
+  width: 150px;
+  height: fit-content
+}
+.age {
+  width: 50px;
+  height: fit-content
+}
+
+span {
+  margin-left: 10px;
+}
+
+.return {
+  width: 100%;
+}
+.proposta {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.responseContent{
+  width: 100%;
+  
+  margin-bottom: 20px;
+}

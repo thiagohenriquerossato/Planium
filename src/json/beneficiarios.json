@@ -1,0 +1,22 @@
+{
+ "quantidade": 4,
+ "registro": "reg1",
+ "beneficiarios": [
+  {
+   "nome": "thiago",
+   "idade": 35
+  },
+  {
+   "nome": "asd",
+   "idade": 12
+  },
+  {
+   "nome": "qwdfqdf",
+   "idade": 34
+  },
+  {
+   "nome": "dsfgsd",
+   "idade": 14
+  }
+ ]
+}

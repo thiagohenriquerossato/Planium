@@ -1,0 +1,46 @@
+{
+ "quantidade": 4,
+ "plano": {
+  "registro": "reg1",
+  "nome": "Bitix Customer Plano 1",
+  "codigo": 1
+ },
+ "precos": [
+  {
+   "codigo": 1,
+   "minimo_vidas": 1,
+   "faixa1": 10,
+   "faixa2": 12,
+   "faixa3": 15
+  },
+  {
+   "codigo": 1,
+   "minimo_vidas": 4,
+   "faixa1": 9,
+   "faixa2": 11,
+   "faixa3": 14
+  }
+ ],
+ "beneficiarios": [
+  {
+   "nome": "thiago",
+   "idade": 35,
+   "valor": 11
+  },
+  {
+   "nome": "asd",
+   "idade": 12,
+   "valor": 9
+  },
+  {
+   "nome": "qwdfqdf",
+   "idade": 34,
+   "valor": 11
+  },
+  {
+   "nome": "dsfgsd",
+   "idade": 14,
+   "valor": 9
+  }
+ ]
+}
