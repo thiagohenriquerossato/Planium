@@ -10,4 +10,4 @@
 1. na pasta raiz do backend, rodar yarn para instalar as dependências.
 2. yarn dev para subir o backend.
 3. na pasta raiz do frontend, rodar yarn para instalar as dependências.
-4. na pasta raiz do frontend, rodar yarn dev para subir o backend.
+4. na pasta raiz do frontend, rodar yarn dev para subir o frontend.
